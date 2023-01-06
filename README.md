@@ -8,7 +8,7 @@
 
 
   <h2 align="center">
-  <a href="https://churascometro.vercel.app/" target="_blank"> Veja o site </a>
+  <a href="https://churrascometro-seven.vercel.app/" target="_blank"> Veja o site </a>
 </h2>
   
   
