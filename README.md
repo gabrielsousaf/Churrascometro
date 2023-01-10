@@ -23,7 +23,7 @@
 [![CSS](https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=2E64FE)](#)
 [![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=FFFF00)](#)
 
-## ✨Sobre o FoodEx.
+## ✨Sobre o Churrascometro.
 > Site para calcular a quantidade ideal de alimentos para o churrasco.
 
 https://churrascometro-seven.vercel.app/
